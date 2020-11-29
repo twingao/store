@@ -9,13 +9,11 @@
         <version>2.2.4.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-
     <groupId>com.twingao.istio</groupId>
     <artifactId>detail-v1</artifactId>
     <version>1.0.0</version>
     <name>detail-v1</name>
     <description>detail v1</description>
-
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
