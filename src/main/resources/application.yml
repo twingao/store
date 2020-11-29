@@ -1,0 +1,5 @@
+server:
+    port: 8084
+
+restUrl:
+    origin: http://origin:8086/origin/
